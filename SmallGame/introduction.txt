@@ -1,0 +1,11 @@
+Welcome to a small game of Adventure. Its purpose is to
+illustrate that you can make your own games, as you see fit.
+
+To play, a player moves between locations and interacts with objects by
+typing one or two word commands.
+
+Perhaps write your own game for the final project?
+
+LET THE GAME BEGIN.
+
+************************************************************************
